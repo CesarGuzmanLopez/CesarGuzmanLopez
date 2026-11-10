@@ -38,13 +38,13 @@ Org ciencia: [@chem-gl](https://github.com/chem-gl) — 8 repos.
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TS-3178C6?logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=archlinux&logoColor=white) ![Neovim](https://img.shields.io/badge/Nvim-57A143?logo=neovim&logoColor=white)
 
-<details><summary>stats</summary>
+<details><summary>stats (click)</summary>
 
-[![stats](https://github-readme-stats.vercel.app/api?username=CesarGuzmanLopez&show_icons=true&theme=transparent&hide_rank=false&hide=top_langs)](https://github.com/CesarGuzmanLopez)
+[![stats](https://github-readme-stats.vercel.app/api?username=CesarGuzmanLopez&show_icons=true&theme=transparent)](https://github.com/CesarGuzmanLopez)
 
 </details>
 
-<p align="center"><img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="snake" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/CesarGuzmanLopez/CesarGuzmanLopez/output/profile-night-rainbow.svg" alt="snake" /></p>
 
 ## Contacto
 
