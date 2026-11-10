@@ -15,12 +15,12 @@ Sirve de algo con tanta IA, quizas si un poco.
 
 Org ciencia: [@chem-gl](https://github.com/chem-gl) — 8 repos.
 
-- [chemistry-apps](https://github.com/chem-gl/chemistry-apps) — apps química uso general (TS, 2026-11-10)
-- [DeepBDE](https://deepbde.ginodilabio.com/) — SMILES + Ketcher v3.4.0, `H B C N O P S Cl F`, RNA/DNA/PEP builder. Monorepo: `deepBDE` Django + Angular. Fork modelo: `DeepBDE-Fork` + `DeepBDE-Api` + `DeepBDE-web`
+- [chemistry-apps](https://github.com/chem-gl/chemistry-apps) — apps química uso general (TS)
+- [DeepBDE](https://deepbde.ginodilabio.com/) — predicción BDE. Monorepo Django + Angular: `deepBDE` + `DeepBDE-Api` + `DeepBDE-web`
 - [apps.agalano.com/apps](https://apps.agalano.com/apps) — `Smileit` (SMILES combinatorio) · `SA Score` (AMBIT/BRSAScore/RDKit) · `Toxicity` (ADMET-AI LD50/Ames) · `CADMA Py` · `Molar Fractions` (f0..fn) · `Tunnel Effect` (Eckart)
 - [chem-flow](https://github.com/chem-gl) (Rust) + [cadma-flow-api](https://github.com/chem-gl) (Python) + [smile-it](https://github.com/chem-gl) (Dart permutas)
-- [bioinspirados](https://github.com/CesarGuzmanLopez/bioinspirados) (TSP+mochila Python) · [tox-agents](https://github.com/CesarGuzmanLopez/tox-agents) · [Cadma-G](https://github.com/CesarGuzmanLopez/Cadma-G) / [smile-generator](https://github.com/CesarGuzmanLopez/smile-generator) · [basecinetica](https://github.com/CesarGuzmanLopez/basecinetica) (DB cinética Annia Galano) · [test-app-epa](https://github.com/CesarGuzmanLopez/test-app-epa)
--[Jornadas Académicas UAM/UACM](https://jornadas-academicas.mx/ponentes/cesar-gerardo-guzman-lopez/) 
+- legacy: [tox-agents](https://github.com/CesarGuzmanLopez/tox-agents) · [Cadma-G](https://github.com/CesarGuzmanLopez/Cadma-G) / [smile-generator](https://github.com/CesarGuzmanLopez/smile-generator) · [basecinetica](https://github.com/CesarGuzmanLopez/basecinetica) (DB cinética Annia Galano) · [test-app-epa](https://github.com/CesarGuzmanLopez/test-app-epa)
+- desarrollé: [Jornadas Académicas UAM/UACM](https://jornadas-academicas.mx/) — ejemplo WordPress
 
 ## Ingeniería Eléctrica UAMI
 
@@ -30,7 +30,7 @@ Org ciencia: [@chem-gl](https://github.com/chem-gl) — 8 repos.
 ## Variado
 
 - [proxy-cesar](https://github.com/CesarGuzmanLopez/proxy-cesar) — proxy determinista multi-modelo LLMs (Python, ★1)
-- [starter](https://github.com/CesarGuzmanLopez/starter) — config NvChad (Lua, 2026-11-06)
+- [starter](https://github.com/CesarGuzmanLopez/starter) — config NvChad (Lua)
 - [SociedadQuimicaDeMexico](https://github.com/CesarGuzmanLopez/SociedadQuimicaDeMexico) — plantilla Laravel propia
 - [dibujoKotlinAndroid](https://github.com/CesarGuzmanLopez/dibujoKotlinAndroid) — canvas Kotlin
 
