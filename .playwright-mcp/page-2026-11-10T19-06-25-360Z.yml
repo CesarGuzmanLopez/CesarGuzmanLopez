@@ -1,0 +1,423 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=e9]:
+      - heading "Navigation Menu" [level=2] [ref=e10]
+      - generic [ref=e11]:
+        - link "Homepage" [ref=e14] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e17]:
+          - navigation "Global" [ref=e18]:
+            - list [ref=e19]:
+              - listitem [ref=e20]:
+                - button "Products" [ref=e22] [cursor=pointer]
+              - listitem [ref=e25]:
+                - button "Developers" [ref=e27] [cursor=pointer]
+              - listitem [ref=e30]:
+                - button "Businesses" [ref=e32] [cursor=pointer]
+              - listitem [ref=e35]:
+                - button "Resources" [ref=e37] [cursor=pointer]
+              - listitem [ref=e40]:
+                - link "Pricing" [ref=e41] [cursor=pointer]:
+                  - /url: https://github.com/pricing
+          - generic [ref=e42]:
+            - button "Search or jump to, type / to search" [ref=e44] [cursor=pointer]:
+              - generic [ref=e47]:
+                - generic [ref=e48]: Search
+                - generic [aria-hidden] [ref=e49]: /
+            - generic [ref=e50]:
+              - link "Sign in" [ref=e52] [cursor=pointer]:
+                - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FCesarGuzmanLopez
+              - link "Sign up" [ref=e55] [cursor=pointer]:
+                - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E&source=header
+              - button "Appearance settings" [ref=e58] [cursor=pointer]
+  - main [ref=e64]:
+    - generic [ref=e67]:
+      - generic [ref=e68]:
+        - generic:
+          - generic:
+            - generic:
+              - img "@CesarGuzmanLopez"
+            - generic:
+              - strong: CesarGuzmanLopez
+              - generic:
+                - generic:
+                  - link "Follow":
+                    - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FCesarGuzmanLopez
+      - navigation "User profile" [ref=e71]:
+        - link "Overview" [ref=e72] [cursor=pointer]:
+          - /url: /CesarGuzmanLopez
+        - link "Repositories 54" [ref=e75] [cursor=pointer]:
+          - /url: /CesarGuzmanLopez?tab=repositories
+          - text: Repositories
+          - generic "54" [ref=e78]
+        - link "Projects" [ref=e79] [cursor=pointer]:
+          - /url: /CesarGuzmanLopez?tab=projects
+        - link "Packages" [ref=e82] [cursor=pointer]:
+          - /url: /CesarGuzmanLopez?tab=packages
+        - link "Stars 7" [ref=e85] [cursor=pointer]:
+          - /url: /CesarGuzmanLopez?tab=stars
+          - text: Stars
+          - generic "7" [ref=e88]
+    - generic [ref=e90]:
+      - generic [ref=e92]:
+        - generic:
+          - generic:
+            - generic:
+              - img "@CesarGuzmanLopez"
+            - generic:
+              - generic:
+                - strong: CesarGuzmanLopez
+            - generic:
+              - generic:
+                - generic:
+                  - link "Follow":
+                    - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FCesarGuzmanLopez
+        - generic [ref=e93]:
+          - generic [ref=e94]:
+            - link [ref=e96] [cursor=pointer]:
+              - /url: https://avatars.githubusercontent.com/u/47696662?v=4
+              - img "View CesarGuzmanLopez's full-sized avatar" [ref=e97]
+            - heading "Cesar Guzman CesarGuzmanLopez" [level=1] [ref=e99]:
+              - generic [ref=e100]: Cesar Guzman
+              - generic [ref=e101]: CesarGuzmanLopez
+          - generic [ref=e102]:
+            - link "Follow" [ref=e109] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FCesarGuzmanLopez
+            - generic [ref=e110]:
+              - generic [ref=e111]: I am a student in computer science Scientific research assistant I'm an expert in c ++ and programmer in java
+              - generic [ref=e114]:
+                - link "3 followers" [ref=e115] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez?tab=followers
+                - text: ·
+                - link "2 following" [ref=e118] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez?tab=following
+              - list [ref=e119]:
+                - 'listitem "Organization: Student of \"Universidad Autónoma Metropolitana\"" [ref=e120]':
+                  - generic [ref=e123]: Student of "Universidad Autónoma Metropolitana"
+                - 'listitem "Home location: Mexico" [ref=e125]':
+                  - generic [ref=e128]: Mexico
+          - generic [ref=e129]:
+            - heading [level=2] [ref=e130]:
+              - link "Achievements" [ref=e131] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez?tab=achievements
+            - generic [ref=e132]:
+              - 'link "Achievement: Pull Shark x3" [ref=e133] [cursor=pointer]':
+                - /url: /CesarGuzmanLopez?achievement=pull-shark&tab=achievements
+                - 'img "Achievement: Pull Shark" [ref=e134]'
+                - generic [ref=e135]: x3
+              - link [ref=e136] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez?achievement=yolo&tab=achievements
+                - 'img "Achievement: YOLO" [ref=e137]'
+              - link [ref=e138] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez?achievement=quickdraw&tab=achievements
+                - 'img "Achievement: Quickdraw" [ref=e139]'
+              - link [ref=e140] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez?achievement=arctic-code-vault-contributor&tab=achievements
+                - 'img "Achievement: Arctic Code Vault Contributor" [ref=e141]'
+          - button "Block or report user" [ref=e143] [cursor=pointer]
+      - generic [ref=e148]:
+        - generic [ref=e150]:
+          - generic [ref=e152]:
+            - link "CesarGuzmanLopez" [ref=e153] [cursor=pointer]:
+              - /url: /CesarGuzmanLopez/CesarGuzmanLopez
+            - generic [ref=e154]: /
+            - text: README.md
+          - article [ref=e155]:
+            - generic [ref=e156]:
+              - heading "Hola 👋 soy Cesar Guzman" [level=1] [ref=e157]
+              - 'link "Permalink: Hola 👋 soy Cesar Guzman" [ref=e158] [cursor=pointer]':
+                - /url: "#hola--soy-cesar-guzman"
+            - paragraph [ref=e161]:
+              - link [ref=e162] [cursor=pointer]:
+                - /url: https://git.io/typing-svg
+                - img "typing" [ref=e163]
+            - generic [ref=e164]:
+              - generic [ref=e165]: $ whoami cesar-guzman — dev C · C++ · Java · Kotlin · Python + Angular $ ./que-hago --now ciencia química + apps web + dotfiles que sí compilan
+              - button "Copy code to clipboard" [ref=e167] [cursor=pointer]
+            - paragraph [ref=e171]:
+              - strong [ref=e172]: C, C++, Java, Kotlin, Python
+              - text: + todo el stack
+              - strong [ref=e173]: Angular (TypeScript, Django API, Docker)
+              - text: . Sirve de algo con tanta IA, quizas si un poco.
+            - generic [ref=e174]:
+              - heading "Ciencia en la que pico" [level=2] [ref=e175]
+              - 'link "Permalink: Ciencia en la que pico" [ref=e176] [cursor=pointer]':
+                - /url: "#ciencia-en-la-que-pico"
+            - paragraph [ref=e179]:
+              - text: "Org ciencia:"
+              - link "@chem-gl" [ref=e180] [cursor=pointer]:
+                - /url: https://github.com/chem-gl
+              - text: — 8 repos.
+            - list [ref=e181]:
+              - listitem [ref=e182]:
+                - link "chemistry-apps" [ref=e183] [cursor=pointer]:
+                  - /url: https://github.com/chem-gl/chemistry-apps
+                - text: — apps química uso general (TS, 2026-11-10)
+              - listitem [ref=e184]:
+                - link "DeepBDE" [ref=e185] [cursor=pointer]:
+                  - /url: https://deepbde.ginodilabio.com/
+                - text: — SMILES + Ketcher v3.4.0,
+                - code [ref=e186]: H B C N O P S Cl F
+                - text: ", RNA/DNA/PEP builder. Monorepo:"
+                - code [ref=e187]: deepBDE
+                - text: "Django + Angular. Fork modelo:"
+                - code [ref=e188]: DeepBDE-Fork
+                - text: +
+                - code [ref=e189]: DeepBDE-Api
+                - text: +
+                - code [ref=e190]: DeepBDE-web
+              - listitem [ref=e191]:
+                - link "apps.agalano.com/apps" [ref=e192] [cursor=pointer]:
+                  - /url: https://apps.agalano.com/apps
+                - text: —
+                - code [ref=e193]: Smileit
+                - text: (SMILES combinatorio) ·
+                - code [ref=e194]: SA Score
+                - text: (AMBIT/BRSAScore/RDKit) ·
+                - code [ref=e195]: Toxicity
+                - text: (ADMET-AI LD50/Ames) ·
+                - code [ref=e196]: CADMA Py
+                - text: ·
+                - code [ref=e197]: Molar Fractions
+                - text: (f0..fn) ·
+                - code [ref=e198]: Tunnel Effect
+                - text: (Eckart)
+              - listitem [ref=e199]:
+                - link "chem-flow" [ref=e200] [cursor=pointer]:
+                  - /url: https://github.com/chem-gl
+                - text: (Rust) +
+                - link "cadma-flow-api" [ref=e201] [cursor=pointer]:
+                  - /url: https://github.com/chem-gl
+                - text: (Python) +
+                - link "smile-it" [ref=e202] [cursor=pointer]:
+                  - /url: https://github.com/chem-gl
+                - text: (Dart permutas)
+              - listitem [ref=e203]:
+                - link "bioinspirados" [ref=e204] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/bioinspirados
+                - text: (TSP+mochila Python) ·
+                - link "tox-agents" [ref=e205] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/tox-agents
+                - text: ·
+                - link "Cadma-G" [ref=e206] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/Cadma-G
+                - text: /
+                - link "smile-generator" [ref=e207] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/smile-generator
+                - text: ·
+                - link "basecinetica" [ref=e208] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/basecinetica
+                - text: (DB cinética Annia Galano) ·
+                - link "test-app-epa" [ref=e209] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/test-app-epa
+                - text: "-"
+                - link "Jornadas Académicas UAM/UACM" [ref=e210] [cursor=pointer]:
+                  - /url: https://jornadas-academicas.mx/ponentes/cesar-gerardo-guzman-lopez/
+            - generic [ref=e211]:
+              - heading "Ingeniería Eléctrica UAMI" [level=2] [ref=e212]
+              - 'link "Permalink: Ingeniería Eléctrica UAMI" [ref=e213] [cursor=pointer]':
+                - /url: "#ingeniería-eléctrica-uami"
+            - list [ref=e216]:
+              - listitem [ref=e217]:
+                - link "die" [ref=e218] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/die
+                - text: —
+                - code [ref=e219]: UAMI-die
+                - text: ", página + calendario-interactivo + docker ("
+                - code [ref=e220]: pagina.html
+                - text: ","
+                - code [ref=e221]: logosUAM50
+                - text: )
+              - listitem [ref=e222]:
+                - link "Cordinacion-Computacion-uami" [ref=e223] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/Cordinacion-Computacion-uami
+                - text: — PHP coordinación UAMI
+            - generic [ref=e224]:
+              - heading "Variado" [level=2] [ref=e225]
+              - 'link "Permalink: Variado" [ref=e226] [cursor=pointer]':
+                - /url: "#variado"
+            - list [ref=e229]:
+              - listitem [ref=e230]:
+                - link "proxy-cesar" [ref=e231] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/proxy-cesar
+                - text: — proxy determinista multi-modelo LLMs (Python, ★1)
+              - listitem [ref=e232]:
+                - link "starter" [ref=e233] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/starter
+                - text: — config NvChad (Lua, 2026-11-06)
+              - listitem [ref=e234]:
+                - link "SociedadQuimicaDeMexico" [ref=e235] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/SociedadQuimicaDeMexico
+                - text: — plantilla Laravel propia
+              - listitem [ref=e236]:
+                - link "dibujoKotlinAndroid" [ref=e237] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/dibujoKotlinAndroid
+                - text: — canvas Kotlin
+            - generic [ref=e238]:
+              - heading "Stack" [level=2] [ref=e239]
+              - 'link "Permalink: Stack" [ref=e240] [cursor=pointer]':
+                - /url: "#stack"
+            - paragraph [ref=e243]:
+              - link [ref=e244] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/d46a1d7017574b163e4e67e03e4a695544a35e74c9dd666af88b6c18e75f3d10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f6c6f676f3d63266c6f676f436f6c6f723d7768697465
+                - img "C" [ref=e245]
+              - link [ref=e246] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/c4d4420874f2562e2949de3bd8a055253ab7a48963e674cf59e4994d32d1fc75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f6c6f676f3d63706c7573706c7573266c6f676f436f6c6f723d7768697465
+                - img "C++" [ref=e247]
+              - link [ref=e248] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/3811b7669bd7be57c92195e6cebfb165c511a1284884e1abeab410ffc907a518/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f6c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465
+                - img "Java" [ref=e249]
+              - link [ref=e250] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/0d26fc9d3f06b4471c5f6e3f2e813f00bc8d9ca4e080fb8b61eaecf49bda52f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f746c696e2d3746353246463f6c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465
+                - img "Kotlin" [ref=e251]
+              - link [ref=e252] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/3eb7efb30158d13c568ff5b3760336477b8ee3e46b7ba0ff77ef1a20bda5bb22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465
+                - img "Python" [ref=e253]
+              - link [ref=e254] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/adf81dd2356edeadadb742c54ab0c5f756b7b6f7efbba7d9fa2b6285e6766ebc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c61722d4444303033313f6c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465
+                - img "Angular" [ref=e255]
+              - link [ref=e256] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/20a9c62f23dc119ef707017b61d0c8d2ebbc94cc88fe2ed6a4e7282f90a46f6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54532d3331373843363f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465
+                - img "TypeScript" [ref=e257]
+              - link [ref=e258] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/f7aad4bd3030767d45d84c74cd6af5d24ef66f8cc74594fba37b87aa9a575dda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d3039324532303f6c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465
+                - img "Django" [ref=e259]
+              - link [ref=e260] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/4b874cd254b289c13ea335c76183785cb5727464b89fee0fb58fa8fd8134fe6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f6c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465
+                - img "Docker" [ref=e261]
+              - link [ref=e262] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/01c94fb5c22a386a788eaabaae776c797feffcb5b773b5bc367d1116997bb66d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417263682d3137393344313f6c6f676f3d617263686c696e7578266c6f676f436f6c6f723d7768697465
+                - img "Arch" [ref=e263]
+              - link [ref=e264] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/27c8cc1f30c2722d83b1525dd8af69e94e73c7137c21d26e44a230abc7b70ead/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e76696d2d3537413134333f6c6f676f3d6e656f76696d266c6f676f436f6c6f723d7768697465
+                - img "Neovim" [ref=e265]
+            - group [ref=e266]:
+              - generic "stats" [ref=e267] [cursor=pointer]
+            - paragraph [ref=e268]:
+              - link [ref=e269] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez/CesarGuzmanLopez/blob/main/profile-3d-contrib/profile-night-rainbow.svg
+                - img "snake" [ref=e270]
+            - generic [ref=e271]:
+              - heading "Contacto" [level=2] [ref=e272]
+              - 'link "Permalink: Contacto" [ref=e273] [cursor=pointer]':
+                - /url: "#contacto"
+            - paragraph [ref=e276]:
+              - link [ref=e277] [cursor=pointer]:
+                - /url: https://github.com/CesarGuzmanLopez
+                - img "GitHub" [ref=e278]
+              - link [ref=e279] [cursor=pointer]:
+                - /url: https://github.com/chem-gl
+                - img "chem-gl" [ref=e280]
+              - link [ref=e281] [cursor=pointer]:
+                - /url: mailto:cesar-gerardo@guzman-lopez.com
+                - img "Mail" [ref=e282]
+        - generic [ref=e284]:
+          - heading "Popular repositories Loading" [level=2] [ref=e285]:
+            - text: Popular repositories
+            - generic: Loading
+            - status
+          - list [ref=e287]:
+            - listitem [ref=e288]:
+              - generic [ref=e290]:
+                - generic [ref=e291]:
+                  - link "smile-generator" [ref=e293] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/smile-generator
+                  - generic [ref=e294]: Public
+                - paragraph [ref=e296]
+                - paragraph [ref=e297]:
+                  - generic [ref=e298]: Java
+                  - link [ref=e300] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/smile-generator/stargazers
+                    - img "star" [ref=e301]
+                    - text: "1"
+                  - link [ref=e303] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/smile-generator/forks
+                    - img "forks" [ref=e304]
+                    - text: "2"
+            - listitem [ref=e306]:
+              - generic [ref=e308]:
+                - generic [ref=e309]:
+                  - link "proxy-cesar" [ref=e311] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/proxy-cesar
+                  - generic [ref=e312]: Public
+                - paragraph [ref=e314]: Deterministic multi-model proxy for LLMs
+                - paragraph [ref=e315]:
+                  - generic [ref=e316]: Python
+                  - link [ref=e318] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/proxy-cesar/stargazers
+                    - img "star" [ref=e319]
+                    - text: "1"
+            - listitem [ref=e321]:
+              - generic [ref=e323]:
+                - generic [ref=e324]:
+                  - link "sustituir-smiles" [ref=e326] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/sustituir-smiles
+                  - generic [ref=e327]: Public
+                - paragraph [ref=e329]: Programa de desarrollo de nuevos compuestos químicos mediante una interfaz gráfica empleando química combinatoria
+                - paragraph [ref=e330]:
+                  - generic [ref=e331]: Java
+            - listitem [ref=e333]:
+              - generic [ref=e335]:
+                - generic [ref=e336]:
+                  - link "QuimicaUAM" [ref=e338] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/QuimicaUAM
+                  - generic [ref=e339]: Public
+                - paragraph [ref=e341]
+                - paragraph [ref=e342]:
+                  - generic [ref=e343]: PHP
+            - listitem [ref=e345]:
+              - generic [ref=e347]:
+                - generic [ref=e348]:
+                  - link "KineticsBD" [ref=e350] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/KineticsBD
+                  - generic [ref=e351]: Public
+                - paragraph
+                - paragraph [ref=e353]:
+                  - generic [ref=e354]: C#
+            - listitem [ref=e356]:
+              - generic [ref=e358]:
+                - generic [ref=e359]:
+                  - link "CAdmio" [ref=e361] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/CAdmio
+                  - generic [ref=e362]: Public
+                - paragraph
+                - paragraph [ref=e364]:
+                  - generic [ref=e365]: HTML
+        - img "Loading" [ref=e371]
+  - contentinfo [ref=e374]:
+    - heading "Footer" [level=2] [ref=e375]
+    - generic [ref=e376]:
+      - generic [ref=e377]:
+        - link "GitHub Homepage" [ref=e378] [cursor=pointer]:
+          - /url: https://github.com
+        - generic [ref=e381]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=e382]:
+        - heading "Footer navigation" [level=3] [ref=e383]
+        - list "Footer navigation" [ref=e384]:
+          - listitem [ref=e385]:
+            - link "Terms" [ref=e386] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=e387]:
+            - link "Privacy" [ref=e388] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=e389]:
+            - link "Security" [ref=e390] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=e391]:
+            - link "Status" [ref=e392] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=e393]:
+            - link "Community" [ref=e394] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=e395]:
+            - link "Docs" [ref=e396] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=e397]:
+            - link "Contact" [ref=e398] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=e399]:
+            - button "Manage cookies" [ref=e401] [cursor=pointer]
+          - listitem [ref=e402]:
+            - button "Do not share my personal information" [ref=e404] [cursor=pointer]

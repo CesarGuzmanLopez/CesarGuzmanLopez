@@ -1,0 +1,1002 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=e9]:
+      - heading "Navigation Menu" [level=2] [ref=e10]
+      - generic [ref=e11]:
+        - link "Homepage" [ref=e14] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e17]:
+          - navigation "Global" [ref=e18]:
+            - list [ref=e19]:
+              - listitem [ref=e20]:
+                - button "Products" [ref=e22] [cursor=pointer]
+              - listitem [ref=e25]:
+                - button "Developers" [ref=e27] [cursor=pointer]
+              - listitem [ref=e30]:
+                - button "Businesses" [ref=e32] [cursor=pointer]
+              - listitem [ref=e35]:
+                - button "Resources" [ref=e37] [cursor=pointer]
+              - listitem [ref=e40]:
+                - link "Pricing" [ref=e41] [cursor=pointer]:
+                  - /url: https://github.com/pricing
+          - generic [ref=e42]:
+            - button "Search or jump to, type / to search" [ref=e44] [cursor=pointer]:
+              - generic [ref=e47]:
+                - generic [ref=e48]: Search
+                - generic [aria-hidden] [ref=e49]: /
+            - generic [ref=e50]:
+              - link "Sign in" [ref=e52] [cursor=pointer]:
+                - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FCesarGuzmanLopez
+              - link "Sign up" [ref=e55] [cursor=pointer]:
+                - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E&source=header
+              - button "Appearance settings" [ref=e58] [cursor=pointer]
+  - main [ref=e64]:
+    - generic [ref=e67]:
+      - generic [ref=e68]:
+        - generic:
+          - generic:
+            - generic:
+              - img "@CesarGuzmanLopez"
+            - generic:
+              - strong: CesarGuzmanLopez
+              - generic:
+                - generic:
+                  - link "Follow":
+                    - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FCesarGuzmanLopez
+      - navigation "User profile" [ref=e71]:
+        - link "Overview" [ref=e72] [cursor=pointer]:
+          - /url: /CesarGuzmanLopez
+        - link "Repositories 54" [ref=e75] [cursor=pointer]:
+          - /url: /CesarGuzmanLopez?tab=repositories
+          - text: Repositories
+          - generic "54" [ref=e78]
+        - link "Projects" [ref=e79] [cursor=pointer]:
+          - /url: /CesarGuzmanLopez?tab=projects
+        - link "Packages" [ref=e82] [cursor=pointer]:
+          - /url: /CesarGuzmanLopez?tab=packages
+        - link "Stars 7" [ref=e85] [cursor=pointer]:
+          - /url: /CesarGuzmanLopez?tab=stars
+          - text: Stars
+          - generic "7" [ref=e88]
+    - generic [ref=e90]:
+      - generic [ref=e92]:
+        - generic:
+          - generic:
+            - generic:
+              - img "@CesarGuzmanLopez"
+            - generic:
+              - generic:
+                - strong: CesarGuzmanLopez
+            - generic:
+              - generic:
+                - generic:
+                  - link "Follow":
+                    - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FCesarGuzmanLopez
+        - generic [ref=e93]:
+          - generic [ref=e94]:
+            - link [ref=e96] [cursor=pointer]:
+              - /url: https://avatars.githubusercontent.com/u/47696662?v=4
+              - img "View CesarGuzmanLopez's full-sized avatar" [ref=e97]
+            - heading "Cesar Guzman CesarGuzmanLopez" [level=1] [ref=e99]:
+              - generic [ref=e100]: Cesar Guzman
+              - generic [ref=e101]: CesarGuzmanLopez
+          - generic [ref=e102]:
+            - link "Follow" [ref=e109] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FCesarGuzmanLopez
+            - generic [ref=e110]:
+              - generic [ref=e111]: I am a student in computer science Scientific research assistant I'm an expert in c ++ and programmer in java
+              - generic [ref=e114]:
+                - link "3 followers" [ref=e115] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez?tab=followers
+                - text: ·
+                - link "2 following" [ref=e118] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez?tab=following
+              - list [ref=e119]:
+                - 'listitem "Organization: Student of \"Universidad Autónoma Metropolitana\"" [ref=e120]':
+                  - generic [ref=e123]: Student of "Universidad Autónoma Metropolitana"
+                - 'listitem "Home location: Mexico" [ref=e125]':
+                  - generic [ref=e128]: Mexico
+          - generic [ref=e129]:
+            - heading [level=2] [ref=e130]:
+              - link "Achievements" [ref=e131] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez?tab=achievements
+            - generic [ref=e132]:
+              - 'link "Achievement: Pull Shark x3" [ref=e133] [cursor=pointer]':
+                - /url: /CesarGuzmanLopez?achievement=pull-shark&tab=achievements
+                - 'img "Achievement: Pull Shark" [ref=e134]'
+                - generic [ref=e135]: x3
+              - link [ref=e136] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez?achievement=yolo&tab=achievements
+                - 'img "Achievement: YOLO" [ref=e137]'
+              - link [ref=e138] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez?achievement=quickdraw&tab=achievements
+                - 'img "Achievement: Quickdraw" [ref=e139]'
+              - link [ref=e140] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez?achievement=arctic-code-vault-contributor&tab=achievements
+                - 'img "Achievement: Arctic Code Vault Contributor" [ref=e141]'
+          - button "Block or report user" [ref=e143] [cursor=pointer]
+      - generic [ref=e148]:
+        - generic [ref=e150]:
+          - generic [ref=e152]:
+            - link "CesarGuzmanLopez" [ref=e153] [cursor=pointer]:
+              - /url: /CesarGuzmanLopez/CesarGuzmanLopez
+            - generic [ref=e154]: /
+            - text: README.md
+          - article [ref=e155]:
+            - generic [ref=e156]:
+              - link [ref=e157] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez/CesarGuzmanLopez/blob/main/assets/knight-black.svg
+                - img "Caballo de ajedrez" [ref=e158]
+              - generic [ref=e159]:
+                - heading "Cesar Guzman" [level=1] [ref=e160]
+                - 'link "Permalink: Cesar Guzman" [ref=e161] [cursor=pointer]':
+                  - /url: "#cesar-guzman"
+              - paragraph [ref=e164]:
+                - text: Desarrollador de software —
+                - strong [ref=e165]: C · C++ · Java · Kotlin · Python
+                - text: + stack
+                - strong [ref=e166]: Angular
+              - paragraph [ref=e167]: Ciencia química · Apps web · Arch Linux · Neovim
+            - separator [ref=e168]
+            - generic [ref=e169]:
+              - heading "Perfil" [level=2] [ref=e170]
+              - 'link "Permalink: Perfil" [ref=e171] [cursor=pointer]':
+                - /url: "#perfil"
+            - paragraph [ref=e174]:
+              - text: Trabajo como desarrollador en
+              - strong [ref=e175]: C, C++, Java, Kotlin y Python
+              - text: ", con el stack completo de"
+              - strong [ref=e176]: Angular (TypeScript, Django API, Docker)
+              - text: . Publico parte de mi trabajo en este perfil y en la organización
+              - link "@chem-gl" [ref=e177] [cursor=pointer]:
+                - /url: https://github.com/chem-gl
+              - text: .
+            - generic [ref=e178]:
+              - heading "Ciencia" [level=2] [ref=e179]
+              - 'link "Permalink: Ciencia" [ref=e180] [cursor=pointer]':
+                - /url: "#ciencia"
+            - list [ref=e183]:
+              - listitem [ref=e184]:
+                - link "chemistry-apps" [ref=e185] [cursor=pointer]:
+                  - /url: https://github.com/chem-gl/chemistry-apps
+                - text: — aplicaciones de química de uso general (TS)
+              - listitem [ref=e186]:
+                - link "DeepBDE" [ref=e187] [cursor=pointer]:
+                  - /url: https://deepbde.ginodilabio.com/
+                - text: "— predicción de BDE. Monorepo Django + Angular:"
+                - code [ref=e188]: deepBDE
+                - text: ","
+                - code [ref=e189]: DeepBDE-Api
+                - text: ","
+                - code [ref=e190]: DeepBDE-web
+              - listitem [ref=e191]:
+                - link "apps.agalano.com/apps" [ref=e192] [cursor=pointer]:
+                  - /url: https://apps.agalano.com/apps
+                - text: —
+                - code [ref=e193]: Smileit
+                - text: (SMILES combinatorio) ·
+                - code [ref=e194]: SA Score
+                - text: (accesibilidad sintética) ·
+                - code [ref=e195]: Toxicity
+                - text: (ADMET-AI) ·
+                - code [ref=e196]: CADMA Py
+                - text: ·
+                - code [ref=e197]: Molar Fractions
+                - text: ·
+                - code [ref=e198]: Tunnel Effect
+              - listitem [ref=e199]:
+                - link "chem-flow" [ref=e200] [cursor=pointer]:
+                  - /url: https://github.com/chem-gl
+                - text: (Rust) ·
+                - link "cadma-flow-api" [ref=e201] [cursor=pointer]:
+                  - /url: https://github.com/chem-gl
+                - text: (Python) ·
+                - link "smile-it" [ref=e202] [cursor=pointer]:
+                  - /url: https://github.com/chem-gl
+                - text: (Dart)
+              - listitem [ref=e203]:
+                - text: "legacy:"
+                - link "tox-agents" [ref=e204] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/tox-agents
+                - text: ·
+                - link "Cadma-G" [ref=e205] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/Cadma-G
+                - text: /
+                - link "smile-generator" [ref=e206] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/smile-generator
+                - text: ·
+                - link "basecinetica" [ref=e207] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/basecinetica
+                - text: (base de datos de cinética) ·
+                - link "test-app-epa" [ref=e208] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/test-app-epa
+              - listitem [ref=e209]:
+                - text: "desarrollé:"
+                - link "Jornadas Académicas UAM/UACM" [ref=e210] [cursor=pointer]:
+                  - /url: https://jornadas-academicas.mx/
+                - text: — ejemplo WordPress
+            - generic [ref=e211]:
+              - heading "Ingeniería Eléctrica UAMI" [level=2] [ref=e212]
+              - 'link "Permalink: Ingeniería Eléctrica UAMI" [ref=e213] [cursor=pointer]':
+                - /url: "#ingeniería-eléctrica-uami"
+            - list [ref=e216]:
+              - listitem [ref=e217]:
+                - link "die" [ref=e218] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/die
+                - text: —
+                - code [ref=e219]: UAMI-die
+                - text: ": página, calendario interactivo y Docker"
+              - listitem [ref=e220]:
+                - link "Cordinacion-Computacion-uami" [ref=e221] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/Cordinacion-Computacion-uami
+                - text: — coordinación de cómputo (PHP)
+            - generic [ref=e222]:
+              - heading "Variado" [level=2] [ref=e223]
+              - 'link "Permalink: Variado" [ref=e224] [cursor=pointer]':
+                - /url: "#variado"
+            - list [ref=e227]:
+              - listitem [ref=e228]:
+                - link "proxy-cesar" [ref=e229] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/proxy-cesar
+                - text: — proxy determinista multi-modelo para LLMs (Python)
+              - listitem [ref=e230]:
+                - link "starter" [ref=e231] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/starter
+                - text: — configuración NvChad (Lua)
+              - listitem [ref=e232]:
+                - link "SociedadQuimicaDeMexico" [ref=e233] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/SociedadQuimicaDeMexico
+                - text: — plantilla Laravel
+              - listitem [ref=e234]:
+                - link "dibujoKotlinAndroid" [ref=e235] [cursor=pointer]:
+                  - /url: https://github.com/CesarGuzmanLopez/dibujoKotlinAndroid
+                - text: — dibujo en canvas (Kotlin)
+            - generic [ref=e236]:
+              - heading "Stack" [level=2] [ref=e237]
+              - 'link "Permalink: Stack" [ref=e238] [cursor=pointer]':
+                - /url: "#stack"
+            - paragraph [ref=e242]:
+              - link [ref=e243] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/d46a1d7017574b163e4e67e03e4a695544a35e74c9dd666af88b6c18e75f3d10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f6c6f676f3d63266c6f676f436f6c6f723d7768697465
+                - img "C" [ref=e244]
+              - link [ref=e245] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/c4d4420874f2562e2949de3bd8a055253ab7a48963e674cf59e4994d32d1fc75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f6c6f676f3d63706c7573706c7573266c6f676f436f6c6f723d7768697465
+                - img "C++" [ref=e246]
+              - link [ref=e247] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/3811b7669bd7be57c92195e6cebfb165c511a1284884e1abeab410ffc907a518/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f6c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465
+                - img "Java" [ref=e248]
+              - link [ref=e249] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/0d26fc9d3f06b4471c5f6e3f2e813f00bc8d9ca4e080fb8b61eaecf49bda52f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f746c696e2d3746353246463f6c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465
+                - img "Kotlin" [ref=e250]
+              - link [ref=e251] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/3eb7efb30158d13c568ff5b3760336477b8ee3e46b7ba0ff77ef1a20bda5bb22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465
+                - img "Python" [ref=e252]
+              - link [ref=e253] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/39d166b6ce9215d389d8897cf28fc639b0d871e39c0342227374916c08fcaf58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f6c6f676f3d706870266c6f676f436f6c6f723d7768697465
+                - img "PHP" [ref=e254]
+              - link [ref=e255] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/bbdae8b77fc1fbdbb86b5ef10ae8905c40f0a532e5bd3683f76b018298533796/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527573742d3030303030303f6c6f676f3d72757374266c6f676f436f6c6f723d7768697465
+                - img "Rust" [ref=e256]
+              - link [ref=e257] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/adf81dd2356edeadadb742c54ab0c5f756b7b6f7efbba7d9fa2b6285e6766ebc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c61722d4444303033313f6c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465
+                - img "Angular" [ref=e258]
+              - link [ref=e259] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/20a9c62f23dc119ef707017b61d0c8d2ebbc94cc88fe2ed6a4e7282f90a46f6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54532d3331373843363f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465
+                - img "TypeScript" [ref=e260]
+              - link [ref=e261] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/f7aad4bd3030767d45d84c74cd6af5d24ef66f8cc74594fba37b87aa9a575dda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d3039324532303f6c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465
+                - img "Django" [ref=e262]
+              - link [ref=e263] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/4b874cd254b289c13ea335c76183785cb5727464b89fee0fb58fa8fd8134fe6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f6c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465
+                - img "Docker" [ref=e264]
+              - link [ref=e265] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/01c94fb5c22a386a788eaabaae776c797feffcb5b773b5bc367d1116997bb66d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417263682d3137393344313f6c6f676f3d617263686c696e7578266c6f676f436f6c6f723d7768697465
+                - img "Arch" [ref=e266]
+              - link [ref=e267] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/27c8cc1f30c2722d83b1525dd8af69e94e73c7137c21d26e44a230abc7b70ead/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e76696d2d3537413134333f6c6f676f3d6e656f76696d266c6f676f436f6c6f723d7768697465
+                - img "Neovim" [ref=e268]
+            - generic [ref=e269]:
+              - heading "Estadísticas" [level=2] [ref=e270]
+              - 'link "Permalink: Estadísticas" [ref=e271] [cursor=pointer]':
+                - /url: "#estadísticas"
+            - paragraph [ref=e275]:
+              - link [ref=e276] [cursor=pointer]:
+                - /url: https://github.com/CesarGuzmanLopez
+                - img "stats" [ref=e277]
+            - generic [ref=e278]:
+              - heading "Contacto" [level=2] [ref=e279]
+              - 'link "Permalink: Contacto" [ref=e280] [cursor=pointer]':
+                - /url: "#contacto"
+            - paragraph [ref=e284]:
+              - link [ref=e285] [cursor=pointer]:
+                - /url: https://github.com/CesarGuzmanLopez
+                - img "GitHub" [ref=e286]
+              - link [ref=e287] [cursor=pointer]:
+                - /url: https://github.com/chem-gl
+                - img "chem-gl" [ref=e288]
+              - link [ref=e289] [cursor=pointer]:
+                - /url: mailto:cesar-gerardo@guzman-lopez.com
+                - img "Mail" [ref=e290]
+            - separator [ref=e291]
+            - generic [ref=e292]:
+              - link [ref=e293] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez/CesarGuzmanLopez/blob/main/assets/knight-white.svg
+                - img "Caballo blanco" [ref=e294]
+              - paragraph [ref=e295]:
+                - subscript [ref=e296]: "Iconos de ajedrez: piezas de Cburnett vía Wikimedia Commons (GFDL / BSD)."
+        - generic [ref=e298]:
+          - heading "Popular repositories Loading" [level=2] [ref=e299]:
+            - text: Popular repositories
+            - generic: Loading
+            - status
+          - list [ref=e301]:
+            - listitem [ref=e302]:
+              - generic [ref=e304]:
+                - generic [ref=e305]:
+                  - link "smile-generator" [ref=e307] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/smile-generator
+                  - generic [ref=e308]: Public
+                - paragraph [ref=e310]
+                - paragraph [ref=e311]:
+                  - generic [ref=e312]: Java
+                  - link [ref=e314] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/smile-generator/stargazers
+                    - img "star" [ref=e315]
+                    - text: "1"
+                  - link [ref=e317] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/smile-generator/forks
+                    - img "forks" [ref=e318]
+                    - text: "2"
+            - listitem [ref=e320]:
+              - generic [ref=e322]:
+                - generic [ref=e323]:
+                  - link "proxy-cesar" [ref=e325] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/proxy-cesar
+                  - generic [ref=e326]: Public
+                - paragraph [ref=e328]: Deterministic multi-model proxy for LLMs
+                - paragraph [ref=e329]:
+                  - generic [ref=e330]: Python
+                  - link [ref=e332] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/proxy-cesar/stargazers
+                    - img "star" [ref=e333]
+                    - text: "1"
+            - listitem [ref=e335]:
+              - generic [ref=e337]:
+                - generic [ref=e338]:
+                  - link "sustituir-smiles" [ref=e340] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/sustituir-smiles
+                  - generic [ref=e341]: Public
+                - paragraph [ref=e343]: Programa de desarrollo de nuevos compuestos químicos mediante una interfaz gráfica empleando química combinatoria
+                - paragraph [ref=e344]:
+                  - generic [ref=e345]: Java
+            - listitem [ref=e347]:
+              - generic [ref=e349]:
+                - generic [ref=e350]:
+                  - link "QuimicaUAM" [ref=e352] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/QuimicaUAM
+                  - generic [ref=e353]: Public
+                - paragraph [ref=e355]
+                - paragraph [ref=e356]:
+                  - generic [ref=e357]: PHP
+            - listitem [ref=e359]:
+              - generic [ref=e361]:
+                - generic [ref=e362]:
+                  - link "KineticsBD" [ref=e364] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/KineticsBD
+                  - generic [ref=e365]: Public
+                - paragraph
+                - paragraph [ref=e367]:
+                  - generic [ref=e368]: C#
+            - listitem [ref=e370]:
+              - generic [ref=e372]:
+                - generic [ref=e373]:
+                  - link "CAdmio" [ref=e375] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez/CAdmio
+                  - generic [ref=e376]: Public
+                - paragraph
+                - paragraph [ref=e378]:
+                  - generic [ref=e379]: HTML
+        - generic [ref=e421]:
+          - generic [ref=e422]:
+            - generic [ref=e423]:
+              - generic [ref=e424]:
+                - heading "1,763 contributions in the last year" [level=2] [ref=e425]
+                - link "Skip to contributions year list" [ref=e426] [cursor=pointer]:
+                  - /url: "#year-link-2026"
+                - generic [ref=e428]:
+                  - grid [ref=e430]:
+                    - caption [ref=e431]: Contribution Graph
+                    - rowgroup [ref=e432]:
+                      - row [ref=e433]:
+                        - gridcell "Day of Week" [ref=e434]
+                        - gridcell "November" [ref=e436]:
+                          - generic [aria-hidden] [ref=e438]: Nov
+                        - gridcell "December" [ref=e439]:
+                          - generic [aria-hidden] [ref=e441]: Dec
+                        - gridcell "January" [ref=e442]:
+                          - generic [aria-hidden] [ref=e444]: Jan
+                        - gridcell "February" [ref=e445]:
+                          - generic [aria-hidden] [ref=e447]: Feb
+                        - gridcell "March" [ref=e448]:
+                          - generic [aria-hidden] [ref=e450]: Mar
+                        - gridcell "April" [ref=e451]:
+                          - generic [aria-hidden] [ref=e453]: Apr
+                        - gridcell "May" [ref=e454]:
+                          - generic [aria-hidden] [ref=e456]: May
+                        - gridcell "June" [ref=e457]:
+                          - generic [aria-hidden] [ref=e459]: Jun
+                        - gridcell "July" [ref=e460]:
+                          - generic [aria-hidden] [ref=e462]: Jul
+                        - gridcell "August" [ref=e463]:
+                          - generic [aria-hidden] [ref=e465]: Aug
+                        - gridcell "September" [ref=e466]:
+                          - generic [aria-hidden] [ref=e468]: Sep
+                        - gridcell "October" [ref=e469]:
+                          - generic [aria-hidden] [ref=e471]: Oct
+                        - gridcell "November" [ref=e472]:
+                          - generic [aria-hidden] [ref=e474]: Nov
+                    - rowgroup [ref=e475]:
+                      - row [ref=e476]:
+                        - gridcell "Sunday" [ref=e477]:
+                          - generic [aria-hidden] [ref=e479]: Sun
+                        - gridcell "No contributions on November 9th." [ref=e480]
+                        - gridcell "No contributions on November 16th." [ref=e481]
+                        - gridcell "3 contributions on November 23rd." [ref=e482]
+                        - gridcell "1 contribution on November 30th." [ref=e483]
+                        - gridcell "No contributions on December 7th." [ref=e484]
+                        - gridcell "No contributions on December 14th." [ref=e485]
+                        - gridcell "No contributions on December 21st." [ref=e486]
+                        - gridcell "No contributions on December 28th." [ref=e487]
+                        - gridcell "No contributions on January 4th." [ref=e488]
+                        - gridcell "No contributions on January 11th." [ref=e489]
+                        - gridcell "No contributions on January 18th." [ref=e490]
+                        - gridcell "1 contribution on January 25th." [ref=e491]
+                        - gridcell "No contributions on February 1st." [ref=e492]
+                        - gridcell "No contributions on February 8th." [ref=e493]
+                        - gridcell "No contributions on February 15th." [ref=e494]
+                        - gridcell "No contributions on February 22nd." [ref=e495]
+                        - gridcell "No contributions on March 1st." [ref=e496]
+                        - gridcell "No contributions on March 8th." [ref=e497]
+                        - gridcell "16 contributions on March 15th." [ref=e498]
+                        - gridcell "8 contributions on March 22nd." [ref=e499]
+                        - gridcell "3 contributions on March 29th." [ref=e500]
+                        - gridcell "No contributions on April 5th." [ref=e501]
+                        - gridcell "24 contributions on April 12th." [ref=e502]
+                        - gridcell "No contributions on April 19th." [ref=e503]
+                        - gridcell "No contributions on April 26th." [ref=e504]
+                        - gridcell "No contributions on May 3rd." [ref=e505]
+                        - gridcell "No contributions on May 10th." [ref=e506]
+                        - gridcell "No contributions on May 17th." [ref=e507]
+                        - gridcell "86 contributions on May 24th." [ref=e508]
+                        - gridcell "18 contributions on May 31st." [ref=e509]
+                        - gridcell "11 contributions on June 7th." [ref=e510]
+                        - gridcell "15 contributions on June 14th." [ref=e511]
+                        - gridcell "No contributions on June 21st." [ref=e512]
+                        - gridcell "No contributions on June 28th." [ref=e513]
+                        - gridcell "No contributions on July 5th." [ref=e514]
+                        - gridcell "No contributions on July 12th." [ref=e515]
+                        - gridcell "No contributions on July 19th." [ref=e516]
+                        - gridcell "No contributions on July 26th." [ref=e517]
+                        - gridcell "No contributions on August 2nd." [ref=e518]
+                        - gridcell "No contributions on August 9th." [ref=e519]
+                        - gridcell "No contributions on August 16th." [ref=e520]
+                        - gridcell "No contributions on August 23rd." [ref=e521]
+                        - gridcell "No contributions on August 30th." [ref=e522]
+                        - gridcell "No contributions on September 6th." [ref=e523]
+                        - gridcell "30 contributions on September 13th." [ref=e524]
+                        - gridcell "5 contributions on September 20th." [ref=e525]
+                        - gridcell "No contributions on September 27th." [ref=e526]
+                        - gridcell "1 contribution on October 4th." [ref=e527]
+                        - gridcell "6 contributions on October 11th." [ref=e528]
+                        - gridcell "2 contributions on October 18th." [ref=e529]
+                        - gridcell "No contributions on October 25th." [ref=e530]
+                        - gridcell "No contributions on November 1st." [ref=e531]
+                        - gridcell "26 contributions on November 8th." [ref=e532]
+                      - row [ref=e533]:
+                        - gridcell "Monday" [ref=e534]:
+                          - generic [aria-hidden] [ref=e536]: Mon
+                        - gridcell "No contributions on November 10th." [ref=e537]
+                        - gridcell "1 contribution on November 17th." [ref=e538]
+                        - gridcell "12 contributions on November 24th." [ref=e539]
+                        - gridcell "No contributions on December 1st." [ref=e540]
+                        - gridcell "No contributions on December 8th." [ref=e541]
+                        - gridcell "4 contributions on December 15th." [ref=e542]
+                        - gridcell "No contributions on December 22nd." [ref=e543]
+                        - gridcell "No contributions on December 29th." [ref=e544]
+                        - gridcell "No contributions on January 5th." [ref=e545]
+                        - gridcell "No contributions on January 12th." [ref=e546]
+                        - gridcell "12 contributions on January 19th." [ref=e547]
+                        - gridcell "No contributions on January 26th." [ref=e548]
+                        - gridcell "No contributions on February 2nd." [ref=e549]
+                        - gridcell "No contributions on February 9th." [ref=e550]
+                        - gridcell "No contributions on February 16th." [ref=e551]
+                        - gridcell "No contributions on February 23rd." [ref=e552]
+                        - gridcell "No contributions on March 2nd." [ref=e553]
+                        - gridcell "5 contributions on March 9th." [ref=e554]
+                        - gridcell "No contributions on March 16th." [ref=e555]
+                        - gridcell "39 contributions on March 23rd." [ref=e556]
+                        - gridcell "20 contributions on March 30th." [ref=e557]
+                        - gridcell "6 contributions on April 6th." [ref=e558]
+                        - gridcell "7 contributions on April 13th." [ref=e559]
+                        - gridcell "10 contributions on April 20th." [ref=e560]
+                        - gridcell "No contributions on April 27th." [ref=e561]
+                        - gridcell "No contributions on May 4th." [ref=e562]
+                        - gridcell "No contributions on May 11th." [ref=e563]
+                        - gridcell "No contributions on May 18th." [ref=e564]
+                        - gridcell "12 contributions on May 25th." [ref=e565]
+                        - gridcell "13 contributions on June 1st." [ref=e566]
+                        - gridcell "5 contributions on June 8th." [ref=e567]
+                        - gridcell "No contributions on June 15th." [ref=e568]
+                        - gridcell "1 contribution on June 22nd." [ref=e569]
+                        - gridcell "21 contributions on June 29th." [ref=e570]
+                        - gridcell "No contributions on July 6th." [ref=e571]
+                        - gridcell "No contributions on July 13th." [ref=e572]
+                        - gridcell "No contributions on July 20th." [ref=e573]
+                        - gridcell "No contributions on July 27th." [ref=e574]
+                        - gridcell "No contributions on August 3rd." [ref=e575]
+                        - gridcell "No contributions on August 10th." [ref=e576]
+                        - gridcell "No contributions on August 17th." [ref=e577]
+                        - gridcell "No contributions on August 24th." [ref=e578]
+                        - gridcell "No contributions on August 31st." [ref=e579]
+                        - gridcell "No contributions on September 7th." [ref=e580]
+                        - gridcell "8 contributions on September 14th." [ref=e581]
+                        - gridcell "3 contributions on September 21st." [ref=e582]
+                        - gridcell "7 contributions on September 28th." [ref=e583]
+                        - gridcell "No contributions on October 5th." [ref=e584]
+                        - gridcell "No contributions on October 12th." [ref=e585]
+                        - gridcell "No contributions on October 19th." [ref=e586]
+                        - gridcell "No contributions on October 26th." [ref=e587]
+                        - gridcell "No contributions on November 2nd." [ref=e588]
+                        - gridcell "6 contributions on November 9th." [ref=e589]
+                      - row [ref=e590]:
+                        - gridcell "Tuesday" [ref=e591]:
+                          - generic [aria-hidden] [ref=e593]: Tue
+                        - gridcell "No contributions on November 11th." [ref=e594]
+                        - gridcell "2 contributions on November 18th." [ref=e595]
+                        - gridcell "3 contributions on November 25th." [ref=e596]
+                        - gridcell "No contributions on December 2nd." [ref=e597]
+                        - gridcell "2 contributions on December 9th." [ref=e598]
+                        - gridcell "No contributions on December 16th." [ref=e599]
+                        - gridcell "No contributions on December 23rd." [ref=e600]
+                        - gridcell "No contributions on December 30th." [ref=e601]
+                        - gridcell "No contributions on January 6th." [ref=e602]
+                        - gridcell "No contributions on January 13th." [ref=e603]
+                        - gridcell "No contributions on January 20th." [ref=e604]
+                        - gridcell "No contributions on January 27th." [ref=e605]
+                        - gridcell "No contributions on February 3rd." [ref=e606]
+                        - gridcell "No contributions on February 10th." [ref=e607]
+                        - gridcell "No contributions on February 17th." [ref=e608]
+                        - gridcell "No contributions on February 24th." [ref=e609]
+                        - gridcell "23 contributions on March 3rd." [ref=e610]
+                        - gridcell "6 contributions on March 10th." [ref=e611]
+                        - gridcell "7 contributions on March 17th." [ref=e612]
+                        - gridcell "No contributions on March 24th." [ref=e613]
+                        - gridcell "38 contributions on March 31st." [ref=e614]
+                        - gridcell "11 contributions on April 7th." [ref=e615]
+                        - gridcell "59 contributions on April 14th." [ref=e616]
+                        - gridcell "3 contributions on April 21st." [ref=e617]
+                        - gridcell "No contributions on April 28th." [ref=e618]
+                        - gridcell "No contributions on May 5th." [ref=e619]
+                        - gridcell "No contributions on May 12th." [ref=e620]
+                        - gridcell "2 contributions on May 19th." [ref=e621]
+                        - gridcell "66 contributions on May 26th." [ref=e622]
+                        - gridcell "16 contributions on June 2nd." [ref=e623]
+                        - gridcell "7 contributions on June 9th." [ref=e624]
+                        - gridcell "No contributions on June 16th." [ref=e625]
+                        - gridcell "3 contributions on June 23rd." [ref=e626]
+                        - gridcell "4 contributions on June 30th." [ref=e627]
+                        - gridcell "No contributions on July 7th." [ref=e628]
+                        - gridcell "No contributions on July 14th." [ref=e629]
+                        - gridcell "No contributions on July 21st." [ref=e630]
+                        - gridcell "No contributions on July 28th." [ref=e631]
+                        - gridcell "No contributions on August 4th." [ref=e632]
+                        - gridcell "No contributions on August 11th." [ref=e633]
+                        - gridcell "No contributions on August 18th." [ref=e634]
+                        - gridcell "No contributions on August 25th." [ref=e635]
+                        - gridcell "No contributions on September 1st." [ref=e636]
+                        - gridcell "No contributions on September 8th." [ref=e637]
+                        - gridcell "6 contributions on September 15th." [ref=e638]
+                        - gridcell "15 contributions on September 22nd." [ref=e639]
+                        - gridcell "6 contributions on September 29th." [ref=e640]
+                        - gridcell "15 contributions on October 6th." [ref=e641]
+                        - gridcell "No contributions on October 13th." [ref=e642]
+                        - gridcell "6 contributions on October 20th." [ref=e643]
+                        - gridcell "No contributions on October 27th." [ref=e644]
+                        - gridcell "No contributions on November 3rd." [ref=e645]
+                        - gridcell "7 contributions on November 10th." [ref=e646]
+                      - row [ref=e647]:
+                        - gridcell "Wednesday" [ref=e648]:
+                          - generic [aria-hidden] [ref=e650]: Wed
+                        - gridcell "No contributions on November 12th." [ref=e651]
+                        - gridcell "7 contributions on November 19th." [ref=e652]
+                        - gridcell "1 contribution on November 26th." [ref=e653]
+                        - gridcell "No contributions on December 3rd." [ref=e654]
+                        - gridcell "No contributions on December 10th." [ref=e655]
+                        - gridcell "No contributions on December 17th." [ref=e656]
+                        - gridcell "No contributions on December 24th." [ref=e657]
+                        - gridcell "No contributions on December 31st." [ref=e658]
+                        - gridcell "1 contribution on January 7th." [ref=e659]
+                        - gridcell "16 contributions on January 14th." [ref=e660]
+                        - gridcell "1 contribution on January 21st." [ref=e661]
+                        - gridcell "10 contributions on January 28th." [ref=e662]
+                        - gridcell "No contributions on February 4th." [ref=e663]
+                        - gridcell "No contributions on February 11th." [ref=e664]
+                        - gridcell "No contributions on February 18th." [ref=e665]
+                        - gridcell "No contributions on February 25th." [ref=e666]
+                        - gridcell "No contributions on March 4th." [ref=e667]
+                        - gridcell "14 contributions on March 11th." [ref=e668]
+                        - gridcell "1 contribution on March 18th." [ref=e669]
+                        - gridcell "No contributions on March 25th." [ref=e670]
+                        - gridcell "3 contributions on April 1st." [ref=e671]
+                        - gridcell "23 contributions on April 8th." [ref=e672]
+                        - gridcell "No contributions on April 15th." [ref=e673]
+                        - gridcell "5 contributions on April 22nd." [ref=e674]
+                        - gridcell "No contributions on April 29th." [ref=e675]
+                        - gridcell "No contributions on May 6th." [ref=e676]
+                        - gridcell "No contributions on May 13th." [ref=e677]
+                        - gridcell "27 contributions on May 20th." [ref=e678]
+                        - gridcell "32 contributions on May 27th." [ref=e679]
+                        - gridcell "7 contributions on June 3rd." [ref=e680]
+                        - gridcell "17 contributions on June 10th." [ref=e681]
+                        - gridcell "No contributions on June 17th." [ref=e682]
+                        - gridcell "No contributions on June 24th." [ref=e683]
+                        - gridcell "No contributions on July 1st." [ref=e684]
+                        - gridcell "No contributions on July 8th." [ref=e685]
+                        - gridcell "No contributions on July 15th." [ref=e686]
+                        - gridcell "No contributions on July 22nd." [ref=e687]
+                        - gridcell "No contributions on July 29th." [ref=e688]
+                        - gridcell "No contributions on August 5th." [ref=e689]
+                        - gridcell "No contributions on August 12th." [ref=e690]
+                        - gridcell "No contributions on August 19th." [ref=e691]
+                        - gridcell "No contributions on August 26th." [ref=e692]
+                        - gridcell "No contributions on September 2nd." [ref=e693]
+                        - gridcell "No contributions on September 9th." [ref=e694]
+                        - gridcell "80 contributions on September 16th." [ref=e695]
+                        - gridcell "50 contributions on September 23rd." [ref=e696]
+                        - gridcell "10 contributions on September 30th." [ref=e697]
+                        - gridcell "19 contributions on October 7th." [ref=e698]
+                        - gridcell "No contributions on October 14th." [ref=e699]
+                        - gridcell "No contributions on October 21st." [ref=e700]
+                        - gridcell "No contributions on October 28th." [ref=e701]
+                        - gridcell "4 contributions on November 4th." [ref=e702]
+                        - gridcell [ref=e703]
+                      - row [ref=e704]:
+                        - gridcell "Thursday" [ref=e705]:
+                          - generic [aria-hidden] [ref=e707]: Thu
+                        - gridcell "No contributions on November 13th." [ref=e708]
+                        - gridcell "6 contributions on November 20th." [ref=e709]
+                        - gridcell "5 contributions on November 27th." [ref=e710]
+                        - gridcell "No contributions on December 4th." [ref=e711]
+                        - gridcell "No contributions on December 11th." [ref=e712]
+                        - gridcell "No contributions on December 18th." [ref=e713]
+                        - gridcell "No contributions on December 25th." [ref=e714]
+                        - gridcell "No contributions on January 1st." [ref=e715]
+                        - gridcell "No contributions on January 8th." [ref=e716]
+                        - gridcell "No contributions on January 15th." [ref=e717]
+                        - gridcell "5 contributions on January 22nd." [ref=e718]
+                        - gridcell "11 contributions on January 29th." [ref=e719]
+                        - gridcell "No contributions on February 5th." [ref=e720]
+                        - gridcell "No contributions on February 12th." [ref=e721]
+                        - gridcell "No contributions on February 19th." [ref=e722]
+                        - gridcell "1 contribution on February 26th." [ref=e723]
+                        - gridcell "No contributions on March 5th." [ref=e724]
+                        - gridcell "19 contributions on March 12th." [ref=e725]
+                        - gridcell "No contributions on March 19th." [ref=e726]
+                        - gridcell "No contributions on March 26th." [ref=e727]
+                        - gridcell "10 contributions on April 2nd." [ref=e728]
+                        - gridcell "5 contributions on April 9th." [ref=e729]
+                        - gridcell "1 contribution on April 16th." [ref=e730]
+                        - gridcell "No contributions on April 23rd." [ref=e731]
+                        - gridcell "No contributions on April 30th." [ref=e732]
+                        - gridcell "No contributions on May 7th." [ref=e733]
+                        - gridcell "No contributions on May 14th." [ref=e734]
+                        - gridcell "12 contributions on May 21st." [ref=e735]
+                        - gridcell "109 contributions on May 28th." [ref=e736]
+                        - gridcell "No contributions on June 4th." [ref=e737]
+                        - gridcell "21 contributions on June 11th." [ref=e738]
+                        - gridcell "No contributions on June 18th." [ref=e739]
+                        - gridcell "No contributions on June 25th." [ref=e740]
+                        - gridcell "No contributions on July 2nd." [ref=e741]
+                        - gridcell "No contributions on July 9th." [ref=e742]
+                        - gridcell "No contributions on July 16th." [ref=e743]
+                        - gridcell "No contributions on July 23rd." [ref=e744]
+                        - gridcell "No contributions on July 30th." [ref=e745]
+                        - gridcell "No contributions on August 6th." [ref=e746]
+                        - gridcell "No contributions on August 13th." [ref=e747]
+                        - gridcell "No contributions on August 20th." [ref=e748]
+                        - gridcell "No contributions on August 27th." [ref=e749]
+                        - gridcell "No contributions on September 3rd." [ref=e750]
+                        - gridcell "No contributions on September 10th." [ref=e751]
+                        - gridcell "14 contributions on September 17th." [ref=e752]
+                        - gridcell "9 contributions on September 24th." [ref=e753]
+                        - gridcell "10 contributions on October 1st." [ref=e754]
+                        - gridcell "6 contributions on October 8th." [ref=e755]
+                        - gridcell "No contributions on October 15th." [ref=e756]
+                        - gridcell "1 contribution on October 22nd." [ref=e757]
+                        - gridcell "No contributions on October 29th." [ref=e758]
+                        - gridcell "2 contributions on November 5th." [ref=e759]
+                        - gridcell [ref=e760]
+                      - row [ref=e761]:
+                        - gridcell "Friday" [ref=e762]:
+                          - generic [aria-hidden] [ref=e764]: Fri
+                        - gridcell "No contributions on November 14th." [ref=e765]
+                        - gridcell "No contributions on November 21st." [ref=e766]
+                        - gridcell "3 contributions on November 28th." [ref=e767]
+                        - gridcell "1 contribution on December 5th." [ref=e768]
+                        - gridcell "1 contribution on December 12th." [ref=e769]
+                        - gridcell "No contributions on December 19th." [ref=e770]
+                        - gridcell "No contributions on December 26th." [ref=e771]
+                        - gridcell "No contributions on January 2nd." [ref=e772]
+                        - gridcell "1 contribution on January 9th." [ref=e773]
+                        - gridcell "2 contributions on January 16th." [ref=e774]
+                        - gridcell "1 contribution on January 23rd." [ref=e775]
+                        - gridcell "No contributions on January 30th." [ref=e776]
+                        - gridcell "No contributions on February 6th." [ref=e777]
+                        - gridcell "No contributions on February 13th." [ref=e778]
+                        - gridcell "4 contributions on February 20th." [ref=e779]
+                        - gridcell "1 contribution on February 27th." [ref=e780]
+                        - gridcell "No contributions on March 6th." [ref=e781]
+                        - gridcell "52 contributions on March 13th." [ref=e782]
+                        - gridcell "8 contributions on March 20th." [ref=e783]
+                        - gridcell "No contributions on March 27th." [ref=e784]
+                        - gridcell "7 contributions on April 3rd." [ref=e785]
+                        - gridcell "No contributions on April 10th." [ref=e786]
+                        - gridcell "No contributions on April 17th." [ref=e787]
+                        - gridcell "No contributions on April 24th." [ref=e788]
+                        - gridcell "No contributions on May 1st." [ref=e789]
+                        - gridcell "No contributions on May 8th." [ref=e790]
+                        - gridcell "No contributions on May 15th." [ref=e791]
+                        - gridcell "11 contributions on May 22nd." [ref=e792]
+                        - gridcell "90 contributions on May 29th." [ref=e793]
+                        - gridcell "6 contributions on June 5th." [ref=e794]
+                        - gridcell "1 contribution on June 12th." [ref=e795]
+                        - gridcell "No contributions on June 19th." [ref=e796]
+                        - gridcell "No contributions on June 26th." [ref=e797]
+                        - gridcell "No contributions on July 3rd." [ref=e798]
+                        - gridcell "No contributions on July 10th." [ref=e799]
+                        - gridcell "No contributions on July 17th." [ref=e800]
+                        - gridcell "No contributions on July 24th." [ref=e801]
+                        - gridcell "No contributions on July 31st." [ref=e802]
+                        - gridcell "No contributions on August 7th." [ref=e803]
+                        - gridcell "No contributions on August 14th." [ref=e804]
+                        - gridcell "No contributions on August 21st." [ref=e805]
+                        - gridcell "No contributions on August 28th." [ref=e806]
+                        - gridcell "No contributions on September 4th." [ref=e807]
+                        - gridcell "No contributions on September 11th." [ref=e808]
+                        - gridcell "11 contributions on September 18th." [ref=e809]
+                        - gridcell "25 contributions on September 25th." [ref=e810]
+                        - gridcell "No contributions on October 2nd." [ref=e811]
+                        - gridcell "1 contribution on October 9th." [ref=e812]
+                        - gridcell "7 contributions on October 16th." [ref=e813]
+                        - gridcell "16 contributions on October 23rd." [ref=e814]
+                        - gridcell "No contributions on October 30th." [ref=e815]
+                        - gridcell "2 contributions on November 6th." [ref=e816]
+                        - gridcell [ref=e817]
+                      - row [ref=e818]:
+                        - gridcell "Saturday" [ref=e819]:
+                          - generic [aria-hidden] [ref=e821]: Sat
+                        - gridcell "No contributions on November 15th." [ref=e822]
+                        - gridcell "No contributions on November 22nd." [ref=e823]
+                        - gridcell "No contributions on November 29th." [ref=e824]
+                        - gridcell "No contributions on December 6th." [ref=e825]
+                        - gridcell "No contributions on December 13th." [ref=e826]
+                        - gridcell "No contributions on December 20th." [ref=e827]
+                        - gridcell "No contributions on December 27th." [ref=e828]
+                        - gridcell "No contributions on January 3rd." [ref=e829]
+                        - gridcell "No contributions on January 10th." [ref=e830]
+                        - gridcell "3 contributions on January 17th." [ref=e831]
+                        - gridcell "4 contributions on January 24th." [ref=e832]
+                        - gridcell "No contributions on January 31st." [ref=e833]
+                        - gridcell "No contributions on February 7th." [ref=e834]
+                        - gridcell "No contributions on February 14th." [ref=e835]
+                        - gridcell "No contributions on February 21st." [ref=e836]
+                        - gridcell "No contributions on February 28th." [ref=e837]
+                        - gridcell "No contributions on March 7th." [ref=e838]
+                        - gridcell "23 contributions on March 14th." [ref=e839]
+                        - gridcell "17 contributions on March 21st." [ref=e840]
+                        - gridcell "No contributions on March 28th." [ref=e841]
+                        - gridcell "6 contributions on April 4th." [ref=e842]
+                        - gridcell "11 contributions on April 11th." [ref=e843]
+                        - gridcell "No contributions on April 18th." [ref=e844]
+                        - gridcell "No contributions on April 25th." [ref=e845]
+                        - gridcell "No contributions on May 2nd." [ref=e846]
+                        - gridcell "No contributions on May 9th." [ref=e847]
+                        - gridcell "No contributions on May 16th." [ref=e848]
+                        - gridcell "2 contributions on May 23rd." [ref=e849]
+                        - gridcell "34 contributions on May 30th." [ref=e850]
+                        - gridcell "1 contribution on June 6th." [ref=e851]
+                        - gridcell "9 contributions on June 13th." [ref=e852]
+                        - gridcell "No contributions on June 20th." [ref=e853]
+                        - gridcell "No contributions on June 27th." [ref=e854]
+                        - gridcell "No contributions on July 4th." [ref=e855]
+                        - gridcell "No contributions on July 11th." [ref=e856]
+                        - gridcell "No contributions on July 18th." [ref=e857]
+                        - gridcell "No contributions on July 25th." [ref=e858]
+                        - gridcell "No contributions on August 1st." [ref=e859]
+                        - gridcell "No contributions on August 8th." [ref=e860]
+                        - gridcell "No contributions on August 15th." [ref=e861]
+                        - gridcell "No contributions on August 22nd." [ref=e862]
+                        - gridcell "No contributions on August 29th." [ref=e863]
+                        - gridcell "No contributions on September 5th." [ref=e864]
+                        - gridcell "24 contributions on September 12th." [ref=e865]
+                        - gridcell "5 contributions on September 19th." [ref=e866]
+                        - gridcell "13 contributions on September 26th." [ref=e867]
+                        - gridcell "4 contributions on October 3rd." [ref=e868]
+                        - gridcell "No contributions on October 10th." [ref=e869]
+                        - gridcell "26 contributions on October 17th." [ref=e870]
+                        - gridcell "No contributions on October 24th." [ref=e871]
+                        - gridcell "No contributions on October 31st." [ref=e872]
+                        - gridcell "No contributions on November 7th." [ref=e873]
+                        - gridcell [ref=e874]
+                  - generic [ref=e875]:
+                    - link "Learn how we count contributions" [ref=e877] [cursor=pointer]:
+                      - /url: https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile
+                    - generic [ref=e878]:
+                      - generic [ref=e879]: Less
+                      - generic [ref=e880]: No contributions.
+                      - generic [ref=e882]: Low contributions.
+                      - generic [ref=e884]: Medium-low contributions.
+                      - generic [ref=e886]: Medium-high contributions.
+                      - generic [ref=e888]: High contributions.
+                      - generic [ref=e890]: More
+              - generic [ref=e892]:
+                - navigation "Organizations" [ref=e894]:
+                  - link "@chem-gl" [ref=e895] [cursor=pointer]:
+                    - /url: /CesarGuzmanLopez?tab=overview&org=chem-gl
+                - generic [ref=e896]:
+                  - generic [ref=e897]:
+                    - heading "Activity overview" [level=3] [ref=e898]
+                    - generic [ref=e902]:
+                      - text: Contributed to
+                      - link "chem-gl/chemistry-apps" [ref=e903] [cursor=pointer]:
+                        - /url: /chem-gl/chemistry-apps
+                      - text: ","
+                      - link "CesarGuzmanLopez/proxy-cesar" [ref=e904] [cursor=pointer]:
+                        - /url: /CesarGuzmanLopez/proxy-cesar
+                      - text: ","
+                      - link "CesarGuzmanLopez/oh-my-bash" [ref=e905] [cursor=pointer]:
+                        - /url: /CesarGuzmanLopez/oh-my-bash
+                      - text: and 9 other repositories
+                  - generic [ref=e907]:
+                    - generic: Loading
+                    - img "A graph representing CesarGuzmanLopez's contributions from November 09, 2025 to November 10, 2026. The contributions are 94% commits, 6% pull requests, 0% issues, 0% code review." [ref=e909]:
+                      - generic [ref=e910]:
+                        - generic [ref=e915]: Code review
+                        - generic [ref=e917]: Issues
+                        - generic [ref=e918]: 6%
+                        - generic [ref=e919]: Pull requests
+                        - generic [ref=e920]: 94%
+                        - generic [ref=e921]: Commits
+            - generic [ref=e922]:
+              - heading "Contribution activity" [level=2] [ref=e923]
+              - generic [ref=e925]:
+                - heading "November 2026" [level=3] [ref=e926]
+                - group [ref=e934]:
+                  - button "Created 44 commits in 4 repositories" [expanded] [ref=e935] [cursor=pointer]
+                  - list [ref=e941]:
+                    - listitem [ref=e942]:
+                      - generic [ref=e943]:
+                        - link "chem-gl/chemistry-apps" [ref=e944] [cursor=pointer]:
+                          - /url: /chem-gl/chemistry-apps
+                        - link "37 commits" [ref=e945] [cursor=pointer]:
+                          - /url: /chem-gl/chemistry-apps/commits?author=CesarGuzmanLopez&since=2026-11-01&until=2026-11-11
+                      - img "85% of commits in November were made to chem-gl/chemistry-apps" [ref=e947]
+                    - listitem [ref=e949]:
+                      - generic [ref=e950]:
+                        - link "CesarGuzmanLopez/CesarGuzmanLopez" [ref=e951] [cursor=pointer]:
+                          - /url: /CesarGuzmanLopez/CesarGuzmanLopez
+                        - link "5 commits" [ref=e952] [cursor=pointer]:
+                          - /url: /CesarGuzmanLopez/CesarGuzmanLopez/commits?author=CesarGuzmanLopez&since=2026-11-01&until=2026-11-11
+                      - img "12% of commits in November were made to CesarGuzmanLopez/CesarGuzmanLopez" [ref=e954]
+                    - listitem [ref=e956]:
+                      - generic [ref=e957]:
+                        - link "CesarGuzmanLopez/oh-my-bash" [ref=e958] [cursor=pointer]:
+                          - /url: /CesarGuzmanLopez/oh-my-bash
+                        - link "1 commit" [ref=e959] [cursor=pointer]:
+                          - /url: /CesarGuzmanLopez/oh-my-bash/commits?author=CesarGuzmanLopez&since=2026-11-01&until=2026-11-11
+                      - img "3% of commits in November were made to CesarGuzmanLopez/oh-my-bash" [ref=e961]
+                    - listitem [ref=e963]:
+                      - generic [ref=e964]:
+                        - link "chem-gl/deepBDE" [ref=e965] [cursor=pointer]:
+                          - /url: /chem-gl/deepBDE
+                        - link "1 commit" [ref=e966] [cursor=pointer]:
+                          - /url: /chem-gl/deepBDE/commits?author=CesarGuzmanLopez&since=2026-11-01&until=2026-11-11
+                      - img "3% of commits in November were made to chem-gl/deepBDE" [ref=e968]
+                - group [ref=e976]:
+                  - button "Opened 2 pull requests in 1 repository" [expanded] [ref=e977] [cursor=pointer]
+                  - group [ref=e985]:
+                    - button "chem-gl/chemistry-apps 2 merged" [expanded] [ref=e986] [cursor=pointer]:
+                      - generic [ref=e987]:
+                        - generic [ref=e988]: chem-gl/chemistry-apps
+                        - generic [ref=e989]:
+                          - generic [ref=e990]: "2"
+                          - text: merged
+                    - list [ref=e996]:
+                      - listitem [ref=e997]:
+                        - 'link "fix(smileit): restore WYSIWYG block substituents on history load" [ref=e1002] [cursor=pointer]':
+                          - /url: /chem-gl/chemistry-apps/pull/112
+                        - generic [ref=e1003]:
+                          - generic [ref=e1004]: This contribution was made on Nov 10
+                          - time [aria-hidden] [ref=e1005]: Nov 10
+                      - listitem [ref=e1006]:
+                        - 'link "perf: cliente OpenAPI para identidad, caché de SVG y gráfica de túnel fluida" [ref=e1011] [cursor=pointer]':
+                          - /url: /chem-gl/chemistry-apps/pull/111
+                        - generic [ref=e1012]:
+                          - generic [ref=e1013]: This contribution was made on Nov 9
+                          - time [aria-hidden] [ref=e1014]: Nov 9
+                - generic [ref=e1019]:
+                  - text: 1 contribution in private repositories
+                  - generic [ref=e1020]: Nov 10
+              - generic [ref=e1021]:
+                - generic: Loading
+                - button "Show more activity" [ref=e1023] [cursor=pointer]
+          - list [ref=e1026]:
+            - listitem [ref=e1027]:
+              - link "Contribution activity in 2026, 1 of 8" [ref=e1028] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez?tab=overview&from=2026-11-01&to=2026-11-10
+                - text: "2026"
+            - listitem [ref=e1029]:
+              - link "Contribution activity in 2025, 2 of 8" [ref=e1030] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez?tab=overview&from=2025-12-01&to=2025-12-31
+                - text: "2025"
+            - listitem [ref=e1031]:
+              - link "Contribution activity in 2024, 3 of 8" [ref=e1032] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez?tab=overview&from=2024-12-01&to=2024-12-31
+                - text: "2024"
+            - listitem [ref=e1033]:
+              - link "Contribution activity in 2023, 4 of 8" [ref=e1034] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez?tab=overview&from=2023-12-01&to=2023-12-31
+                - text: "2023"
+            - listitem [ref=e1035]:
+              - link "Contribution activity in 2022, 5 of 8" [ref=e1036] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez?tab=overview&from=2022-12-01&to=2022-12-31
+                - text: "2022"
+            - listitem [ref=e1037]:
+              - link "Contribution activity in 2021, 6 of 8" [ref=e1038] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez?tab=overview&from=2021-12-01&to=2021-12-31
+                - text: "2021"
+            - listitem [ref=e1039]:
+              - link "Contribution activity in 2020, 7 of 8" [ref=e1040] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez?tab=overview&from=2020-12-01&to=2020-12-31
+                - text: "2020"
+            - listitem [ref=e1041]:
+              - link "Contribution activity in 2019, 8 of 8" [ref=e1042] [cursor=pointer]:
+                - /url: /CesarGuzmanLopez?tab=overview&from=2019-12-01&to=2019-12-31
+                - text: "2019"
+  - contentinfo [ref=e388]:
+    - heading "Footer" [level=2] [ref=e389]
+    - generic [ref=e390]:
+      - generic [ref=e391]:
+        - link "GitHub Homepage" [ref=e392] [cursor=pointer]:
+          - /url: https://github.com
+        - generic [ref=e395]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=e396]:
+        - heading "Footer navigation" [level=3] [ref=e397]
+        - list "Footer navigation" [ref=e398]:
+          - listitem [ref=e399]:
+            - link "Terms" [ref=e400] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=e401]:
+            - link "Privacy" [ref=e402] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=e403]:
+            - link "Security" [ref=e404] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=e405]:
+            - link "Status" [ref=e406] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=e407]:
+            - link "Community" [ref=e408] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=e409]:
+            - link "Docs" [ref=e410] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=e411]:
+            - link "Contact" [ref=e412] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=e413]:
+            - button "Manage cookies" [ref=e415] [cursor=pointer]
+          - listitem [ref=e416]:
+            - button "Do not share my personal information" [ref=e418] [cursor=pointer]

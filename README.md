@@ -4,9 +4,7 @@
 
 # Cesar Guzman
 
-Desarrollador de software — **C · C++ · Java · Kotlin · Python** + stack **Angular**
-
-Ciencia química · Apps web · Arch Linux · Neovim
+Ingenieria y desarrollo de software — **C · C++ · Java · Kotlin · Python** + stack **Angular**
 
 </div>
 
@@ -14,7 +12,7 @@ Ciencia química · Apps web · Arch Linux · Neovim
 
 ## Perfil
 
-Trabajo como desarrollador en **C, C++, Java, Kotlin y Python**, con el stack completo de **Angular (TypeScript, Django API, Docker)**. Publico parte de mi trabajo en este perfil y en la organización [@chem-gl](https://github.com/chem-gl).
+Desarrollo en **C, C++, Java, Kotlin, Python ...**, con el stack completo de **Angular (TypeScript, Django API, Docker)**. Publico parte de mi trabajo en este perfil y en la organización [@chem-gl](https://github.com/chem-gl).
 
 ## Ciencia
 
@@ -67,6 +65,5 @@ Trabajo como desarrollador en **C, C++, Java, Kotlin y Python**, con el stack co
 
 <img src="assets/knight-white.svg" width="40" alt="Caballo blanco" />
 
-<sub>Iconos de ajedrez: piezas de Cburnett vía Wikimedia Commons (GFDL / BSD).</sub>
 
 </div>
