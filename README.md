@@ -1,52 +1,72 @@
-# Hola 👋 soy Cesar Guzman
+<div align="center">
 
-[![typing](https://readme-typing-svg.demolab.com/?lines=Hola%2C+soy+Cesar+Guzman;hacker+%7C+ciencia+%2B+c%C3%B3digo;arch+%7C+bash+%7C+nvim&color=00FF41&center=true&width=440&height=45)](https://git.io/typing-svg)
+<img src="assets/knight-black.svg" width="72" alt="Caballo de ajedrez" />
 
-```bash
-$ whoami
-cesar-guzman — dev C · C++ · Java · Kotlin · Python + Angular
-$ ./que-hago --now
-ciencia química + apps web + dotfiles que sí compilan
-```
-**C, C++, Java, Kotlin, Python** + todo el stack **Angular (TypeScript, Django API, Docker)**. 
-Sirve de algo con tanta IA, quizas si un poco.
+# Cesar Guzman
 
-## Ciencia en la que pico
+Desarrollador de software — **C · C++ · Java · Kotlin · Python** + stack **Angular**
 
-Org ciencia: [@chem-gl](https://github.com/chem-gl) — 8 repos.
+Ciencia química · Apps web · Arch Linux · Neovim
 
-- [chemistry-apps](https://github.com/chem-gl/chemistry-apps) — apps química uso general (TS)
-- [DeepBDE](https://deepbde.ginodilabio.com/) — predicción BDE. Monorepo Django + Angular: `deepBDE` + `DeepBDE-Api` + `DeepBDE-web`
-- [apps.agalano.com/apps](https://apps.agalano.com/apps) — `Smileit` (SMILES combinatorio) · `SA Score` (AMBIT/BRSAScore/RDKit) · `Toxicity` (ADMET-AI LD50/Ames) · `CADMA Py` · `Molar Fractions` (f0..fn) · `Tunnel Effect` (Eckart)
-- [chem-flow](https://github.com/chem-gl) (Rust) + [cadma-flow-api](https://github.com/chem-gl) (Python) + [smile-it](https://github.com/chem-gl) (Dart permutas)
-- legacy: [tox-agents](https://github.com/CesarGuzmanLopez/tox-agents) · [Cadma-G](https://github.com/CesarGuzmanLopez/Cadma-G) / [smile-generator](https://github.com/CesarGuzmanLopez/smile-generator) · [basecinetica](https://github.com/CesarGuzmanLopez/basecinetica) (DB cinética Annia Galano) · [test-app-epa](https://github.com/CesarGuzmanLopez/test-app-epa)
+</div>
+
+---
+
+## Perfil
+
+Trabajo como desarrollador en **C, C++, Java, Kotlin y Python**, con el stack completo de **Angular (TypeScript, Django API, Docker)**. Publico parte de mi trabajo en este perfil y en la organización [@chem-gl](https://github.com/chem-gl).
+
+## Ciencia
+
+- [chemistry-apps](https://github.com/chem-gl/chemistry-apps) — aplicaciones de química de uso general (TS)
+- [DeepBDE](https://deepbde.ginodilabio.com/) — predicción de BDE. Monorepo Django + Angular: `deepBDE`, `DeepBDE-Api`, `DeepBDE-web`
+- [apps.agalano.com/apps](https://apps.agalano.com/apps) — `Smileit` (SMILES combinatorio) · `SA Score` (accesibilidad sintética) · `Toxicity` (ADMET-AI) · `CADMA Py` · `Molar Fractions` · `Tunnel Effect`
+- [chem-flow](https://github.com/chem-gl) (Rust) · [cadma-flow-api](https://github.com/chem-gl) (Python) · [smile-it](https://github.com/chem-gl) (Dart)
+- legacy: [tox-agents](https://github.com/CesarGuzmanLopez/tox-agents) · [Cadma-G](https://github.com/CesarGuzmanLopez/Cadma-G) / [smile-generator](https://github.com/CesarGuzmanLopez/smile-generator) · [basecinetica](https://github.com/CesarGuzmanLopez/basecinetica) (base de datos de cinética) · [test-app-epa](https://github.com/CesarGuzmanLopez/test-app-epa)
 - desarrollé: [Jornadas Académicas UAM/UACM](https://jornadas-academicas.mx/) — ejemplo WordPress
 
 ## Ingeniería Eléctrica UAMI
 
-- [die](https://github.com/CesarGuzmanLopez/die) — `UAMI-die`, página + calendario-interactivo + docker (`pagina.html`, `logosUAM50`)
-- [Cordinacion-Computacion-uami](https://github.com/CesarGuzmanLopez/Cordinacion-Computacion-uami) — PHP coordinación UAMI
+- [die](https://github.com/CesarGuzmanLopez/die) — `UAMI-die`: página, calendario interactivo y Docker
+- [Cordinacion-Computacion-uami](https://github.com/CesarGuzmanLopez/Cordinacion-Computacion-uami) — coordinación de cómputo (PHP)
 
 ## Variado
 
-- [proxy-cesar](https://github.com/CesarGuzmanLopez/proxy-cesar) — proxy determinista multi-modelo LLMs (Python, ★1)
-- [starter](https://github.com/CesarGuzmanLopez/starter) — config NvChad (Lua)
-- [SociedadQuimicaDeMexico](https://github.com/CesarGuzmanLopez/SociedadQuimicaDeMexico) — plantilla Laravel propia
-- [dibujoKotlinAndroid](https://github.com/CesarGuzmanLopez/dibujoKotlinAndroid) — canvas Kotlin
+- [proxy-cesar](https://github.com/CesarGuzmanLopez/proxy-cesar) — proxy determinista multi-modelo para LLMs (Python)
+- [starter](https://github.com/CesarGuzmanLopez/starter) — configuración NvChad (Lua)
+- [SociedadQuimicaDeMexico](https://github.com/CesarGuzmanLopez/SociedadQuimicaDeMexico) — plantilla Laravel
+- [dibujoKotlinAndroid](https://github.com/CesarGuzmanLopez/dibujoKotlinAndroid) — dibujo en canvas (Kotlin)
 
 ## Stack
 
+<div align="center">
+
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TS-3178C6?logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=archlinux&logoColor=white) ![Neovim](https://img.shields.io/badge/Nvim-57A143?logo=neovim&logoColor=white)
 
-<details><summary>stats (click)</summary>
+</div>
+
+## Estadísticas
+
+<div align="center">
 
 [![stats](https://github-readme-stats.vercel.app/api?username=CesarGuzmanLopez&show_icons=true&theme=transparent)](https://github.com/CesarGuzmanLopez)
 
-</details>
-
-<p align="center"><img src="https://raw.githubusercontent.com/CesarGuzmanLopez/CesarGuzmanLopez/output/profile-night-rainbow.svg" alt="snake" /></p>
+</div>
 
 ## Contacto
 
-[![GitHub](https://img.shields.io/badge/GitHub-CesarGuzmanLopez-181717?logo=github)](https://github.com/CesarGuzmanLopez) [![chem-gl](https://img.shields.io/badge/chem--gl-org-00FF41?logo=github)](https://github.com/chem-gl)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:cesar-gerardo@guzman-lopez.com)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-CesarGuzmanLopez-181717?logo=github)](https://github.com/CesarGuzmanLopez) [![chem-gl](https://img.shields.io/badge/chem--gl-org-181717?logo=github)](https://github.com/chem-gl) [![Mail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:cesar-gerardo@guzman-lopez.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="assets/knight-white.svg" width="40" alt="Caballo blanco" />
+
+<sub>Iconos de ajedrez: piezas de Cburnett vía Wikimedia Commons (GFDL / BSD).</sub>
+
+</div>
