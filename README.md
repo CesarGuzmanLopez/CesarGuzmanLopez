@@ -49,7 +49,7 @@ Trabajo como desarrollador en **C, C++, Java, Kotlin y Python**, con el stack co
 
 <div align="center">
 
-[![stats](https://github-readme-stats.vercel.app/api?username=CesarGuzmanLopez&show_icons=true&theme=transparent)](https://github.com/CesarGuzmanLopez)
+![Seguidores](https://img.shields.io/github/followers/CesarGuzmanLopez?style=flat&label=Seguidores) ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCesarGuzmanLopez&query=%24.public_repos&label=Repos&logo=github)
 
 </div>
 
